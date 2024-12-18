@@ -34,6 +34,13 @@ Each map uses **low-reliability hatching** to indicate areas where data quality 
 
 ## Explore the interactive map below: 
 
+
+<embed src="https://srk194.neocities.org/Edu_Attain_Indicators_3"
+width=100%
+height=600
+onerror="alert('URL invalid !!');" />
+
+
 <object data="(https://srk194.neocities.org/Edu_Attain_Indicators_3)" width="100%" height="600">
     <embed src="https://srk194.neocities.org/Edu_Attain_Indicators_3" width="100%" height="600"> </embed>
     Error: Embedded data could not be displayed.
