@@ -35,10 +35,10 @@ Each map uses **low-reliability hatching** to indicate areas where data quality 
 ## Explore the interactive map below: 
 
 
-<embed src="https://srk194.neocities.org/Edu_Attain_Indicators_3"
+<!-- <embed src="https://srk194.neocities.org/Edu_Attain_Indicators_3"
 width=100%
 height=600
-onerror="alert('URL invalid !!');" />
+onerror="alert('URL invalid !!');" /> -->
 
 
 <object data="(https://srk194.neocities.org/Edu_Attain_Indicators_3)" width="100%" height="600">
@@ -46,12 +46,12 @@ onerror="alert('URL invalid !!');" />
     Error: Embedded data could not be displayed.
 </object>
 
-<iframe src='http://srk194.neocities.org/Edu_Attain_Indicators_3'  width="100%" height="600px"></iframe>
+<!--<iframe src='http://srk194.neocities.org/Edu_Attain_Indicators_3'  width="100%" height="600px"></iframe>
 
 <section>
     <p>The legend for the education indicators is shown below:</p>
     <img src="Indicator_Legends.png" alt="Legend for Education Indicators" style="display: block; margin: auto;" />    
-</section>
+</section> -->
    
 You can explore [this map as its own web page here](http://srk194.neocities.org/Edu_Attain_Indicators_3)
 
