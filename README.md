@@ -36,7 +36,6 @@ Each map uses **low-reliability hatching** to indicate areas where data quality 
 
 <object data="(https://srk194.neocities.org/Edu_Attain_Indicators_3)" width="100%" height="600">
     <embed src="https://srk194.neocities.org/Edu_Attain_Indicators_3" width="100%" height="600"> </embed>
-    Error: Embedded data could not be displayed.
 </object>
 
    You can explore [this map as its own web page here](http://srk194.neocities.org/Edu_Attain_Indicators_3)
@@ -66,4 +65,3 @@ The interactive map provides a dynamic exploration of educational indicators and
 
 Users can also switch between base maps (**OpenStreetMap** and **CartoDB Positron**) for additional contextual layers. The map allows for a deeper understanding of spatial patterns in education while offering flexibility for specific inquiries and visual exploration.
 
-<iframe src='https://srk194.neocities.org/Edu_Attain_Indicators_3'  width="100%" height="600px"></iframe>
