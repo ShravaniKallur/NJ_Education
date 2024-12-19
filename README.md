@@ -41,6 +41,11 @@ Each map uses **low-reliability hatching** to indicate areas where data quality 
 
    You can explore [this map as its own web page here](http://srk194.neocities.org/Edu_Attain_Indicators_3)
 
+   <section>
+    <p>The legend for the education indicators is shown below:</p>
+    <img src="Indicator_Attain_Legends.png" alt="Legend for Education Indicators" style="display: block; margin: auto;" />    
+</section> 
+
 <object data="https://srk194.neocities.org/Edu_Enroll_Indicators" width="100%" height="600">
     <embed src="https://srk194.neocities.org/Edu_Enroll_Indicators" width="100%" height="600"> </embed>
     Error: Embedded data could not be displayed.
@@ -48,10 +53,17 @@ Each map uses **low-reliability hatching** to indicate areas where data quality 
 
 You can explore [this map as its own web page here](https://srk194.neocities.org/Edu_Enroll_Indicators)
 
+   <section>
+    <p>The legend for the education indicators is shown below:</p>
+    <img src="Indicator_Enroll_Legends.png" alt="Legend for Education Indicators" style="display: block; margin: auto;" />    
+</section> 
+
 
 The interactive map provides a dynamic exploration of educational indicators and public school data across New Jersey. Users can toggle between multiple layers, including:  
 - **School Heat Map:** Visualizes the density of schools across the state, with brighter areas indicating higher concentrations.  
 - **Educational Indicators:** Includes layers for various educational metrics, such as high school completion rates, bachelor's degree attainment, public school enrollment percentages, and disconnected youth rates. Each layer uses a consistent classification scheme and intuitive color gradients for easy comparison.  
-- **School Points:** Displays individual schools with markers color-coded by status (e.g., open, closed, or new). Clicking on a marker reveals detailed information about the school, including its name, address, and educational level.  
+
 
 Users can also switch between base maps (**OpenStreetMap** and **CartoDB Positron**) for additional contextual layers. The map allows for a deeper understanding of spatial patterns in education while offering flexibility for specific inquiries and visual exploration.
+
+<iframe src='http://srk194.neocities.org/Edu_Attain_Indicators_3'  width="100%" height="600px"></iframe>
