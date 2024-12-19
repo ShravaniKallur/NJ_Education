@@ -13,10 +13,21 @@ This project aims to understand the broader spatial patterns of educational atta
 4. Are there regions with limited school access that also exhibit lower educational outcomes?
 
 ## Data Sources
-1. Census data for educational attainment and school enrollment rates - American Community Survey, CensusAPI
-2. Policy Map - Public Schools: Enrollment and Demographics (NCES) in New Jersey (State)
-3. Census_Tracts_20202C_3424.geojson - NJGIN
-4. NJ_Counties_NGJIN_2021.geojson - NJGIN
+1. Census Data for Educational Attainment and School Enrollment Rates
+   a. This dataset was accessed using the CensusAPI package and developed by the U.S. Census Bureau. It is updated annually, and the data used reflects 2024 estimates.
+   b. Indicators such as Percent High School Completion, Percent Bachelor’s Degree or More, Percent Not Enrolled in School, Percent Public School Enrollment, and Percent Disconnected Youth were computed. Missing data was symbolized appropriately, and areas with high Coefficient of Variation (CV) values were marked using low-reliability hatching.
+   c. A GEOID field was created using FIPS codes, and a table join was performed to merge the indicators with census tract geometries for mapping.
+2. Public Schools: Enrollment and Demographics (NCES) in New Jersey
+   a. This data was sourced from Policy Map.
+   b. The original format was a CSV file containing addresses of public schools in New Jersey, last updated in July 2024.
+   c. The addresses were geocoded using Python, and a heat map of school locations was created for the interactive maps.
+   d. School point locations outside New Jersey or with low ESRI geocoding quality were excluded during data preprocessing.
+3. Census_Tracts_20202C_3424.geojson
+   a. This GeoJSON file was created by the New Jersey Office of GIS (NJOGIS) and derived from the U.S. Census Bureau's MAF/TIGER Database. It was last updated on June 28, 2021.
+   b. The dataset was converted into a GeoDataFrame and merged with ACS variables using a table join for analysis.
+4. NJ_Counties_NGJIN_2021.geojson
+   a. This GeoJSON file was created by the New Jersey Office of GIS (NJOGIS). It was last updated on December 26, 2023.
+   b. The dataset was converted into a GeoDataFrame for spatial analysis and visualization.
 
 ## Education Indicators by Census Tracts in New Jersey (2022)
 The set of maps illustrates the spatial distribution of key education indicators across census tracts in New Jersey for the year 2022. Each map uses a consistent classification scheme with defined intervals (20, 40, 60, 80, and 100%) and a unique color gradient to highlight variation in educational attainment, enrollment, and youth outcomes. These maps aim to uncover regional patterns and disparities in education-related metrics.  
