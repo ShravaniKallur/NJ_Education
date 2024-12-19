@@ -32,7 +32,7 @@ Each map uses **low-reliability hatching** to indicate areas where data quality 
 4. **Percentage of People Enrolled in Public School (5–19 years):** Depicts the proportion of school-aged children enrolled in public schools, reflecting the reliance on public education systems across the state. Variations in enrollment patterns may correlate with socioeconomic or geographic factors.  
 5. **Percentage of Disconnected Youth (16–19 years):** Focuses on youth aged 16–19 who are neither enrolled in school nor participating in the labor force. Areas with higher percentages of disconnected youth, indicated by darker shades, point to regions where young people face challenges in accessing education or employment opportunities.  
 
-## Explore the interactive map below: 
+## Explore the Educational Attainment interactive map below: 
 
 <iframe src='https://srk194.neocities.org/Edu_Attain_Indicators_3'  width="100%" height="600px"></iframe>
 
@@ -43,6 +43,7 @@ Each map uses **low-reliability hatching** to indicate areas where data quality 
     <img src="Indicator_Attain_Legends.png" alt="Legend for Education Indicators" style="display: block; margin: auto;" />    
 </section> 
 
+## Explore the Educational Enrollment interactive map below:
 <iframe src='https://srk194.neocities.org/Edu_Enroll_Indicators'  width="100%" height="600px"></iframe>
 
 You can explore [this map as its own web page here](https://srk194.neocities.org/Edu_Enroll_Indicators)
