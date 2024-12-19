@@ -38,14 +38,14 @@ Each map uses **low-reliability hatching** to indicate areas where data quality 
 
    You can explore [this map as its own web page here](https://srk194.neocities.org/Edu_Attain_Indicators_3)
     <p>The legend for the education indicators is shown below:</p>
-    <img src="Indicator_Attain_Legends.png" alt="Legend for Education Indicators" style="display: block; margin: auto;" />    
+    <img src="Indicator_Attain_Legends.png" alt="Legend for Education Indicators" style="display: block; margin: auto; width: 50%; max-width: 400px; height: auto;" />    
 
 ## Explore the Educational Enrollment interactive map below:
 <iframe src='https://srk194.neocities.org/Edu_Enroll_Indicators'  width="100%" height="600px"></iframe>
 
 You can explore [this map as its own web page here](https://srk194.neocities.org/Edu_Enroll_Indicators)
     <p>The legend for the education indicators is shown below:</p>
-    <img src="Indicator_Enroll_Legends.png" alt="Legend for Education Indicators" style="display: block; margin: auto;" />    
+<img src="Indicator_Enroll_Legends.png" alt="Legend for Education Indicators" style="display: block; margin: auto; width: 50%; max-width: 400px; height: auto;" />
 
 The interactive map provides a dynamic exploration of educational indicators and public school data across New Jersey. Users can toggle between multiple layers, including:  
 - **School Heat Map:** Visualizes the density of schools across the state, with brighter areas indicating higher concentrations.  
