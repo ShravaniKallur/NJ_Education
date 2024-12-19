@@ -37,7 +37,6 @@ Each map uses **low-reliability hatching** to indicate areas where data quality 
 <iframe src='https://srk194.neocities.org/Edu_Attain_Indicators_3'  width="100%" height="600px"></iframe>
 
    You can explore [this map as its own web page here](https://srk194.neocities.org/Edu_Attain_Indicators_3)
-
    <section>
     <p>The legend for the education indicators is shown below:</p>
     <img src="Indicator_Attain_Legends.png" alt="Legend for Education Indicators" style="display: block; margin: auto;" />    
@@ -47,7 +46,6 @@ Each map uses **low-reliability hatching** to indicate areas where data quality 
 <iframe src='https://srk194.neocities.org/Edu_Enroll_Indicators'  width="100%" height="600px"></iframe>
 
 You can explore [this map as its own web page here](https://srk194.neocities.org/Edu_Enroll_Indicators)
-
    <section>
     <p>The legend for the education indicators is shown below:</p>
     <img src="Indicator_Enroll_Legends.png" alt="Legend for Education Indicators" style="display: block; margin: auto;" />    
