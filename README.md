@@ -66,4 +66,4 @@ The interactive map provides a dynamic exploration of educational indicators and
 
 Users can also switch between base maps (**OpenStreetMap** and **CartoDB Positron**) for additional contextual layers. The map allows for a deeper understanding of spatial patterns in education while offering flexibility for specific inquiries and visual exploration.
 
-<iframe src='http://srk194.neocities.org/Edu_Attain_Indicators_3'  width="100%" height="600px"></iframe>
+<iframe src='https://srk194.neocities.org/Edu_Attain_Indicators_3'  width="100%" height="600px"></iframe>
